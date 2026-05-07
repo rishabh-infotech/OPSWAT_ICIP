@@ -9,40 +9,40 @@
 - While An organization, which implement all security measure but other day to day business which are using services may not providing an vector to attacker.
 - The assets and systems whethere it is digital or physical are consider so vital to the country that there incapacitance or destruction would have a debilitating effect on security, economic security, public health,safety, or any combination.  
 
-## 3. CIP Sectors :
-### The US gov identifies 16 critical infrastrucure - 
+## 3. CIP Sectors : 
+The US gov identifies 16 critical infrastrucure - 
 
-    ### 1. Information Technology :
-  - The Information Technology sector is central to nation's security, economy and public health and safety as all of it highly dependent on internet.
-  - The sector's complex and dynamic enviornment makes identifying threats and assessing vulnerabilities difficult.
-      ### 2. Critical Manufacturing :
-  - The critical manufacturing sector is crucial to the economic prosperity and continuity of     country.
-  - A direct attack or disruption of certain elements of the manufacturing industry could essential functions at the national level.
-    ### 3. Chemical :
-  - Chemical industry is an integral part of a country economics upon which a wide range of critical infrastructure sectors rely.
-  - Securing these chemicals against growing and evolvong threatss requires vigilance from both the private and public sector.
-  ### 4. Nuclear Reacters and Materials :
+### 1. Information Technology :
+- The Information Technology sector is central to nation's security, economy and public health and safety as all of it highly dependent on internet.
+- The sector's complex and dynamic enviornment makes identifying threats and assessing vulnerabilities difficult.
+ ### 2. Critical Manufacturing :
+ - The critical manufacturing sector is crucial to the economic prosperity and continuity of     country.
+- A direct attack or disruption of certain elements of the manufacturing industry could essential functions at the national level.
+### 3. Chemical :
+- Chemical industry is an integral part of a country economics upon which a wide range of critical infrastructure sectors rely.
+- Securing these chemicals against growing and evolvong threatss requires vigilance from both the private and public sector.
+### 4. Nuclear Reacters and Materials :
   - From the power generation to the medical isotopes to treat cancer patient, the nuclear reactor and materials covers most aspect of a country.
-  ### 5. Water and Waste Water management :
+### 5. Water and Waste Water management :
   - Provide safe drinking water to is a prerequisite for public health. Properly treated wastewater   is vital preventing disease and protecting the enviornment.
-  ### 6. Energy :
+### 6. Energy :
   - Energy Infrastructure of any country plays crucial role in todays world as complete economy       depends on energy, and most of the energy is came from fossil fuel.
   - this create bottleneck situation for countries that do not have naatural fuel reserved.
-  ### 7. Communication : 
+### 7. Communication : 
   - Communication sector is an integral component of any country underlying the all businesses, public safety and defence forces.
-  ### 8. Dams :
+### 8. Dams :
   - The Dams Sector delivers critical water retention and control services in a country, including hydro electric power generation, agricultural irrigation and flood control.
   - If it is control by Attackers it can create flood situation in country or trip down the electricity generation.
-  ### 9. Transportation System : 
+### 9. Transportation System : 
   - Department of Transportation are designated as the co-sector Risk management agencies for the transportation system sector. 
   - The nation's transportation system quickly, safely and securely moves people and goods through the country.
-  ### 10. Commercial Facilities :
+### 10. Commercial Facilities :
   - The commercial facilities sector includes a diverse range of sites that draw large crowds of people for shopping, business or entertainment.
-  ### 11. Government Services : 
+### 11. Government Services : 
   - The Government facilities sector includes a wide variety of buildings.
   - Many government facilities are open to the public for business activities, commercial transaction or recreational acticities.
   - Some facilities include special-use military installation, embassies, courthouses, national laboratories and structures.
-  ### 12. Financial :
+### 12. Financial :
 - The financial services sector includes thousands of depository institutions, providers of investment products, insurance companies and other credit and financing organizations.
 - The fund transfer security and user data is very critical for a country.
 ### 13. Healthcare :
